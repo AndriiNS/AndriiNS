@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andrii-naumov-a09540283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andrii-naumov-a09540283" height="30" width="40" /></a>
 <a href="https://instagram.com/naumov_andrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naumov_andrii" height="30" width="40" /></a>
-  <h1>or</h1>
 andriy.naumov05@gmail.com
 </p>
 
